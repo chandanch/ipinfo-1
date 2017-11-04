@@ -8,13 +8,13 @@ Usage
 $ ./ipinfo.sh -h
 Usage: ./ipinfo.sh [-f field] [IP address]
  -f field	Only output specified field's info. Run script without -f to see available fields.
- -h		    Show this help text.
+ -h		     Show this help text.
 ```
 
 Examples
 ------
 ### Current IP address info
-```
+```json
 $ ./ipinfo.sh
 ip: 125.71.208.203
 hostname: No Hostname
